@@ -39,14 +39,14 @@ Statement 5
 Make a line of 12 LED ,First and last led will glow for 1.25 second then it will come inwards to
 the middle and then go outwards back to the initial condition.
 
-Link: 
+Link: https://www.tinkercad.com/things/dfd3iNcWRhP-aarohan-problem-5
 --------------------------------------------------------------------------------
 
 Statement 6
 Use 4 rgb led and program them in a way that they change their colour every second and at
 no time should any 2 rgb emit the same coloured light.
 
-Link:
+Link: https://www.tinkercad.com/things/4c4Ppwq72tl-aarohan-problem-6
 --------------------------------------------------------------------------------
 
 Statement 7
@@ -55,7 +55,7 @@ whose rpm should be in reverse order.
 Ex. the more the value of the potentiometer, the more the number of led will glow from 0-12
 and lesser should be the motor rpm.
 
-Link:
+Link: https://www.tinkercad.com/things/8FohI5sxrxi-aarohan-problem-7
 ---------------------------------------------------------------------------------
 
 Statement 8:
@@ -65,7 +65,7 @@ button is pressed in the particular time at the beginning
 If push button is pressed 1 time the 1st bulb will glow and if 2 times 2nd will glow and first will
 be turned off
 
-Link:
+Link: https://www.tinkercad.com/things/1gn6kKiJcjo-aarohan-problem-8
 ----------------------------------------------------------------------------------
 
 >>>>>>>>>>>>>>>>>>>END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
