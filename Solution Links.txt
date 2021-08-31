@@ -1,0 +1,35 @@
+Statement 1
+Make a Column of 12 Bulb and number them from 1 to 12 from left to right. Glow the Odd
+Bulbs for 1 second (even will be off) and then even for 1 second (odd will be off) and this will
+be continued in loop until simulation is turned off.
+1 to 12 led will glow in even and odd pattern
+0,2,4,6 …. Even number leds will glow at first for 1 seconds
+Then 1 second pause where every led will be off
+Then 1,3,5,7 .. odd number led will glow
+
+
+Link: https://www.tinkercad.com/things/0qCnajEboOs-aarohan-problem-1
+
+---------------------------------------------------------------------------
+Statement 2
+Glow the LED present in the prime places between(1-12)
+**consider 1 as the prime number.
+
+Link: https://www.tinkercad.com/things/5Y1ihMyHSQt-aarohan-problem-2
+
+---------------------------------------------------------------------------------
+
+Statement 3
+Turn leds on serially from 1 to 12
+First led will glow for 1.25 second followed by the second and so on for 0.75 second each
+without any gap in between them. Make sure that once you move on to the next led the
+previous one should be kept on.
+
+Link: https://www.tinkercad.com/things/eHnvyp1jFRi-aarohan-problem-3
+--------------------------------------------------------------------------------
+
+Statement 4
+Turn led from 1 to 12 serially in the pack of three and switch off the previous one
+For ex.. 1,2,3 will glow then 1 will be off and 2,3,4 will glow and this pattern will go on until 12.
+
+Link: 
