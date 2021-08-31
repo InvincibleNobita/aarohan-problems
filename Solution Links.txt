@@ -32,4 +32,40 @@ Statement 4
 Turn led from 1 to 12 serially in the pack of three and switch off the previous one
 For ex.. 1,2,3 will glow then 1 will be off and 2,3,4 will glow and this pattern will go on until 12.
 
+Link: https://www.tinkercad.com/things/db1i2gqfV7Z-aarohan-problem-4
+-------------------------------------------------------------------------------
+
+Statement 5
+Make a line of 12 LED ,First and last led will glow for 1.25 second then it will come inwards to
+the middle and then go outwards back to the initial condition.
+
 Link: 
+--------------------------------------------------------------------------------
+
+Statement 6
+Use 4 rgb led and program them in a way that they change their colour every second and at
+no time should any 2 rgb emit the same coloured light.
+
+Link:
+--------------------------------------------------------------------------------
+
+Statement 7
+Use the potentiometer to glow the number of LED in increasing order and also drive a motor
+whose rpm should be in reverse order.
+Ex. the more the value of the potentiometer, the more the number of led will glow from 0-12
+and lesser should be the motor rpm.
+
+Link:
+---------------------------------------------------------------------------------
+
+Statement 8:
+Make a series of 7 light bulbs
+Use push buttons and glow the number of bulb according to the number of times the push
+button is pressed in the particular time at the beginning
+If push button is pressed 1 time the 1st bulb will glow and if 2 times 2nd will glow and first will
+be turned off
+
+Link:
+----------------------------------------------------------------------------------
+
+>>>>>>>>>>>>>>>>>>>END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
